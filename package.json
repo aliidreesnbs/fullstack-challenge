@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "pg": "^8.0.2",
     "pg-hstore": "^2.3.3",
     "popper.js": "^1.16.1",
